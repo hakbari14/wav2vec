@@ -1,0 +1,9 @@
+pip install librosa
+pip install torch
+pip install datasets
+pip install transformers
+pip install numpy
+pip install hazm
+pip install re
+pip install string
+pip install audio2numpy
